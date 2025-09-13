@@ -147,7 +147,8 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ## 📄 License
 
-Set your own (e.g., MIT). By default, all rights reserved to the author.
+Copyright (c) 2025 Nikita Marshchonok. All rights reserved.
+
 
 ## 🙏 Acknowledgments
 
