@@ -43,7 +43,7 @@ A compact notebook project to **detect anomalies** in search‑query datasets (S
 
 ---
 
-## ⚙️ Installation & run
+##  Installation & run
 
 ### Option A — Jupyter/Colab
 
@@ -70,7 +70,7 @@ Open the notebook and execute.
 
 ---
 
-## 🧪 Quick script (no notebook)
+##  Quick script (no notebook)
 
 Minimal script that reproduces anomaly detection and prints the top anomalies:
 
@@ -105,7 +105,7 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ---
 
-## 📊 How to read the results
+##  How to read the results
 
 * **Top terms**: unexpected spikes may indicate spam or topic bursts.
 * **Top by clicks/impressions**: locomotive queries; drops/spikes are audit candidates.
@@ -115,7 +115,7 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ---
 
-## 🔧 Tuning
+##  Tuning
 
 * `contamination` — prior fraction of anomalies. Start at `0.01` and tune to business reality.
 * IsolationForest usually works without feature scaling, but for heavy right‑skew consider log‑transforming `Clicks/Impressions`.
