@@ -1,10 +1,10 @@
-# 🔎 Search Queries Anomaly Detection
+#  Search Queries Anomaly Detection
 
 A compact notebook project to **detect anomalies** in search‑query datasets (SEO/paid search/site). It performs light data cleaning, quick exploratory analysis (EDA), and flags suspicious rows with **Isolation Forest**.
 
 ---
 
-## 🚀 What the project does
+##  What the project does
 
 * Loads a CSV with query metrics (`Queries.csv`).
 * Converts `CTR` from strings like `"5%"` to numeric `0.05`.
@@ -21,7 +21,7 @@ A compact notebook project to **detect anomalies** in search‑query datasets (S
 
 ---
 
-## 📦 Repo layout
+##  Repo layout
 
 ```
 .
