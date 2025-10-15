@@ -123,7 +123,7 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ---
 
-## ⚠️ Limitations & improvements
+##  Limitations & improvements
 
 * **No time awareness**: the model does not distinguish seasonality/viral spikes from true anomalies.
 
@@ -137,7 +137,7 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ---
 
-## 🧰 Troubleshooting
+##  Troubleshooting
 
 * `ModuleNotFoundError`: install the missing package(s) (see Installation).
 * `UnicodeDecodeError` when reading CSV: try `encoding='utf-8-sig'` or `encoding='cp1251'` in `pd.read_csv`.
@@ -145,12 +145,12 @@ print(anom.head(20) if not anom.empty else "No anomalies found at current settin
 
 ---
 
-## 📄 License
+##  License
 
 Copyright (c) 2025 Nikita Marshchonok. All rights reserved.
 
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 * `scikit-learn` — Isolation Forest
 * `plotly` — interactive charts
