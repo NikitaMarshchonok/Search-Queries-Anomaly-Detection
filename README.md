@@ -155,3 +155,13 @@ Copyright (c) 2025 Nikita Marshchonok. All rights reserved.
 * `scikit-learn` — Isolation Forest
 * `plotly` — interactive charts
 * `pandas` — tabular data wrangling
+
+
+
+## Author:
+
+telegram: @nikitamarshchonok
+
+LinkedIn: [@](https://www.linkedin.com/in/nikita-marshchonok/)
+
+email: n.marshchonok@gmail.com
