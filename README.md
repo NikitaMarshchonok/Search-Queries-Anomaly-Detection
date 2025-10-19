@@ -162,6 +162,6 @@ Copyright (c) 2025 Nikita Marshchonok. All rights reserved.
 
 telegram: @nikitamarshchonok
 
-LinkedIn: [@](https://www.linkedin.com/in/nikita-marshchonok/)
+LinkedIn: https://www.linkedin.com/in/nikita-marshchonok
 
 email: n.marshchonok@gmail.com
