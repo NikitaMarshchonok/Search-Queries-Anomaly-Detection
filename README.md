@@ -5,8 +5,6 @@ A compact notebook project to **detect anomalies** in search‑query datasets (S
 ---
 
 
-
-
 ##  What the project does
 
 * Loads a CSV with query metrics (`Queries.csv`).
